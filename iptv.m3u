@@ -1,3 +1,29 @@
-翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-澳门澳视,https://iptv.hiper25.com/TDM/video.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="TVB" tvg-id="TVB",TVB
+https://iptv.doyoulinkwantyousee.top/TVB/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="TDM" tvg-id="TDM",TDM
+https://iptv.doyoulinkwantyousee.top/TDM/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="Pearl" tvg-id="Pearl",Pearl
+https://iptv.doyoulinkwantyousee.top/Pearl/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東衛視" tvg-id="廣東衛視",廣東衛視
+https://iptv.doyoulinkwantyousee.top/gdws/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東體育" tvg-id="廣東體育",廣東體育
+https://iptv.doyoulinkwantyousee.top/gdty/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東經濟科教" tvg-id="廣東經濟科教",廣東經濟科教
+https://iptv.doyoulinkwantyousee.top/gdjjkj/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東珠江" tvg-id="廣東珠江",廣東珠江
+https://iptv.doyoulinkwantyousee.top/gdzj/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東新聞" tvg-id="廣東新聞",廣東新聞
+https://iptv.doyoulinkwantyousee.top/gdxw/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="大灣區衛視" tvg-id="大灣區衛視",大灣區衛視
+https://iptv.doyoulinkwantyousee.top/dwqws/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="廣東影視" tvg-id="廣東影視",廣東影視
+https://iptv.doyoulinkwantyousee.top/gdys/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="嶺南戲曲" tvg-id="嶺南戲曲",嶺南戲曲
+https://iptv.doyoulinkwantyousee.top/lnxq/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="汕頭綜合" tvg-id="汕頭綜合",汕頭綜合
+https://iptv.doyoulinkwantyousee.top/stzh/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="汕頭經濟生活" tvg-id="汕頭經濟生活",汕頭經濟生活
+https://iptv.doyoulinkwantyousee.top/stjjsh/video.m3u8?token=qsQgZmyjhR7cA3
+#EXTINF:-1 tvg-name="汕頭文旅體育" tvg-id="汕頭文旅體育",汕頭文旅體育
+https://iptv.doyoulinkwantyousee.top/stwlty/video.m3u8?token=qsQgZmyjhR7cA3
